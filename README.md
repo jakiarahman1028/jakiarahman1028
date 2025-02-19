@@ -8,7 +8,6 @@ I am a **Computer Science & Engineering (CSE) student** at **International Islam
 ### 🚀 What I'm Doing Now  
 - 📖 Learning **Software Quality Assurance (SQA) & Software Testing**  
 - 🎨 Enhancing my **UI/UX Design** skills  
-- 🤖 Conducting research on **Aspect-Based Sentiment Analysis (ABSA)** using **Machine Learning (DistilBERT, RoBERTa, ALBERT)**  
 - 🖌️ Running my **art page "Purple Canvas"**, creating **custom paintings and anime-inspired artworks**  
 
 ### 🤝 Looking to Collaborate On  
