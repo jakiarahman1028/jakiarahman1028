@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jakia Rahman
 
-## 💻 Aspiring SQA Engineer | UI/UX Enthusiast | ML Researcher | Artist  
+## 💻 Aspiring SQA Engineer | UI/UX Enthusiast | Artist  
 
 ### 📌 About Me  
 I am a **Computer Science & Engineering (CSE) student** at **International Islamic University Chittagong (IIUC)**, currently based in **Dhaka, Bangladesh**. Passionate about **Software Quality Assurance (SQA), UI/UX Design, and Web Development**, I am actively learning and building my skills to kickstart my career.  
@@ -19,7 +19,6 @@ I am a **Computer Science & Engineering (CSE) student** at **International Islam
 - Software Quality Assurance (SQA) 🛠️  
 - UI/UX Design 🎨  
 - Web Development 🌐  
-- Machine Learning for Sentiment Analysis 🤖
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
