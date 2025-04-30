@@ -3,10 +3,10 @@
 ## 💻 Aspiring SQA Engineer | UI/UX Enthusiast | Artist  
 
 ### 📌 About Me  
-I am a **Computer Science & Engineering (CSE) student** at **International Islamic University Chittagong (IIUC)**, currently based in **Dhaka, Bangladesh**. Passionate about **Software Quality Assurance (SQA), UI/UX Design, and Web Development**, I am actively learning and building my skills to kickstart my career.  
+I am currently working as a **Technical Support Engineer at WaTheta**, where I assist clients with **WhatsApp Business API integration, onboarding, and automation solutions**. I am a **Computer Science & Engineering (CSE) graduate** from **International Islamic University Chittagong (IIUC)**, currently based in **Dhaka, Bangladesh**. Passionate about **Software Quality Assurance (SQA), UI/UX Design, and Web Development**, I am actively learning and building my skills to kickstart my career.  
 
 ### 🚀 What I'm Doing Now  
-- 📖 Learning **Software Quality Assurance (SQA) & Software Testing**  
+- 📖 Learning **Software Quality Assurance (SQA), Software Testing & Technical Support**  
 - 🎨 Enhancing my **UI/UX Design** skills  
 - 🖌️ Running my **art page "Purple Canvas"**, creating **custom paintings and anime-inspired artworks**  
 
