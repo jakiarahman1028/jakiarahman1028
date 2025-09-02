@@ -6,18 +6,18 @@
 I am a Software Quality Assurance Engineer at **Healthcare Pharmaceuticals Ltd.**, working on testing, quality control, and improving software reliability during my internship. I am a Computer Science & Engineering (CSE) graduate from International Islamic University Chittagong (IIUC). My career goal is to grow as a Software Quality Assurance Engineer by gaining expertise in manual and automated testing, ensuring high-quality software delivery, and contributing to building reliable and efficient systems. 
 
 ### 🚀 What I'm Doing Now  
-- 📖 Learning **Software Quality Assurance (SQA), Software Testing & Technical Support**  
-- 🎨 Enhancing my **UI/UX Design** skills  
-- 🖌️ Running my **art page "Purple Canvas"**, creating **custom paintings and anime-inspired artworks**  
+- 📖 Learning **Software Quality Assurance (SQA), Software Testing, and Test Automation**  
+- 🌐 Exploring **Web Development** to strengthen my technical skills  
+- 🔬 Continuing my **research interests in NLP and Machine Learning**, with a focus on sentiment analysis and text classification  
 
 ### 🤝 Looking to Collaborate On  
 - **SQA & Software Testing** projects  
-- **UI/UX Design** and **Web Development** projects  
-- **Research in NLP & Sentiment Analysis**  
+- **Web Development** projects  
+- **Research in NLP & Machine Learning**  
 
 ### 💬 Ask Me About  
 - Software Quality Assurance (SQA) 🛠️  
-- UI/UX Design 🎨  
+- Software Testing & Test Automation 🔍  
 - Web Development 🌐  
 
 <h3 align="left">Connect with me:</h3>
