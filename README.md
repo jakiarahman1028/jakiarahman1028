@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jakia Rahman
 
-## 💻 Aspiring SQA Engineer | UI/UX Enthusiast | Artist  
+## 💻 Aspiring SQA Engineer | Manual and Automation Testing
 
 ### 📌 About Me  
 I am a Software Quality Assurance Engineer at **Healthcare Pharmaceuticals Ltd.**, working on testing, quality control, and improving software reliability during my internship. I am a Computer Science & Engineering (CSE) graduate from International Islamic University Chittagong (IIUC). My career goal is to grow as a Software Quality Assurance Engineer by gaining expertise in manual and automated testing, ensuring high-quality software delivery, and contributing to building reliable and efficient systems. 
