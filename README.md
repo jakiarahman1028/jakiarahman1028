@@ -8,17 +8,17 @@ I am a Software Quality Assurance Engineer at **Healthcare Pharmaceuticals Ltd.*
 ### 🚀 What I'm Doing Now  
 - 📖 Learning **Software Quality Assurance (SQA), Software Testing, and Test Automation**  
 - 🌐 Exploring **Web Development** to strengthen my technical skills  
-- 🔬 Continuing my **research interests in NLP and Machine Learning**, with a focus on sentiment analysis and text classification  
+- 🔬 Continuing my **research interests in NLP and Machine Learning** 
 
 ### 🤝 Looking to Collaborate On  
 - **SQA & Software Testing** projects  
 - **Web Development** projects  
-- **Research in NLP & Machine Learning**  
+- **Research in NLP, Machine Learning, Deep Learning**  
 
 ### 💬 Ask Me About  
 - Software Quality Assurance (SQA) 🛠️  
 - Software Testing & Test Automation 🔍  
-- Web Development 🌐  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
